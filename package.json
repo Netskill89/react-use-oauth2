@@ -1,5 +1,5 @@
 {
-	"name": "@netskill89/react-use-oauth2",
+	"name": "@mfgdev/react-use-oauth2",
 	"author": {
 		"name": "Tasos Kakouris",
 		"email": "tasoskakour@gmail.com",
@@ -12,7 +12,7 @@
 		"nodejs",
 		"oauth2"
 	],
-	"version": "1.0.11",
+	"version": "1.0.12",
 	"description": "A React hook that handles OAuth2 authorization flow.",
 	"license": "MIT",
 	"homepage": "https://github.com/tasoskakour/react-use-oauth2#readme",
