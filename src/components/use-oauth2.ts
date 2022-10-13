@@ -15,6 +15,7 @@ export type AuthTokenPayload = {
 	access_token: string;
 	scope: string;
 	refresh_token: string;
+	[key: string]: any;
 };
 
 export type ResponseTypeBasedProps<TData> =
